@@ -31,7 +31,7 @@ h1,h2,h3,h4 {
     flex-direction: column;
     width: 200px;
     height: 95%;
-    translate: 998px -30px;
+    translate: 998px -180px;
     background-color: rgba(217, 227, 227, 0.18);
 }
 .sidebar div{
@@ -57,4 +57,13 @@ p{
 }
 h4{
    font-size: 0.95rem;
+}
+.header2 img{
+  width: 50%;
+  display: flex;  
+}
+.header2{
+    width: 70%;
+    margin-left: 30px;
+    margin-top: 20px;
 }
